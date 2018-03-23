@@ -19,5 +19,7 @@ make
 
 
 Steps to tune:
+
 Adjust input quadrilateral for perspective transform (TrackbarsCoordinates)
+
 Adjust bottom paddle color threshold (TrackbarBotPaddle)
