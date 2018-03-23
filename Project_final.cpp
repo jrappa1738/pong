@@ -658,9 +658,9 @@ while(1){
 			line(frame0, inputQuad[3], inputQuad[0],Scalar(0,0,255),2);
 			//findCorners(gameThreshold, frame0);
 	        //imshow("Frame", frame0);
-			//imshow("FrameWarp", frame0_warped);
+			imshow("FrameWarp", frame0_warped);
 			//imshow("HSV", frame0_hsv_warped);
-			imshow("threshold", botThreshold);
+			//imshow("threshold", botThreshold);
 			//imshow("threshold", gameThreshold);
 			//imshow("threshold",result);
 
@@ -678,9 +678,9 @@ while(1){
 			line(frame1, inputQuad[3], inputQuad[0],Scalar(0,0,255),2);
 			//findCorners(gameThreshold, frame1);
 	        //imshow("Frame", frame1);
-			//imshow("FrameWarp", frame1_warped);
+			imshow("FrameWarp", frame1_warped);
 			//imshow("HSV", frame1_hsv_warped);
-			imshow("threshold", botThreshold);
+			//imshow("threshold", botThreshold);
 			//imshow("threshold", gameThreshold);
 			//imshow("threshold",result);
 
