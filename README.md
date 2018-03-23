@@ -3,13 +3,13 @@ machine vision project for autonomous Atari pong playing - Oregon Institute of T
 
 To use: 
 
-git clone https://github.com/jrappa1738/pong
-cd ../pong
-mkdir build
-cd build
-cmake ..
-make
-./final_proj
+git clone https://github.com/jrappa1738/pong\n
+cd ../pong\n
+mkdir build\n
+cd build\n
+cmake ..\n
+make\n
+./final_proj\n
 
 
 Steps to tune:
